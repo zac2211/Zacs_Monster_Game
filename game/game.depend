@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635885159 source:/home/zac/Messing_With_C/game/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
